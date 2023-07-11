@@ -3,7 +3,7 @@ To run the app
 download the zipped tag, unpack to your desired location, in cmd run commands:<br>
 composer install<br>
 php artisan migrate<br>
-php artisan db:seed to test-fill the migrated database.<br>
+php artisan db:seed        |to test-fill the migrated database.<br>
 php artisan serve<br>
 
 home page url should contain '/products' route in the end of url e.g. 'http://127.0.0.1:8000/product'
