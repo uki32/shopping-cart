@@ -1,6 +1,6 @@
 To run the app
 
-download the zipped tag, unpack to your desired location, in cmd run commands:
+download the zipped tag, unpack to your desired location, in cmd run commands:<br>
 composer install<br>
 php artisan migrate<br>
 php artisan db:seed to test-fill the migrated database.<br>
